@@ -4,7 +4,7 @@
 [LinkedIn](https://www.linkedin.com/in/dhonred-abarca-648019266/) | dhonred.abarca@protonmail.com | +639391108843
 ## Statement
 
-## Certificates
+## [Certificates](Certificates/Achievements)
 - Google IT Professional Certificate
 - Google Cybersecurity Certificate
 - Responsive Web Design Certificate
